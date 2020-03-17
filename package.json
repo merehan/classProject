@@ -11,5 +11,16 @@
 	"framer": {
 		"id": "7a4737d1-a435-4530-80c7-902196f45b1a"
 	},
-	"author": "Marc Farssac"
+	"author": "Marc Farssac",
+	"dependencies": {
+		"@framer/benjamin.animator": "^1.4.0",
+		"@framer/benjamin.arconic": "^1.4.0",
+		"@framer/bzone.ant-design-ui-kit": "^1.6.0",
+		"@framer/charliewilliams.framer-base-kit": "^1.0.0",
+		"@framer/colebemis.feather-icons": "^1.2.0",
+		"@framer/framer.lottie": "^1.1.0",
+		"@framer/jezper.iphone-x-status-bar-black": "^1.1.0",
+		"@framer/kasimir.iphone-x-kit": "^1.21.0",
+		"@framer/material-ui.material-ui": "^1.1.0"
+	}
 }
